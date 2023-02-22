@@ -3,12 +3,13 @@ Konzept
 Wir haben uns am Anfang überlegt, ein Schaf und Wolf-Brettspiel mit Greenfoot für 2-5 Spieler zu erstellen. Dabei sollte es 4 Schafe und einen Wolf geben, welcher das Ziel hat, auf die oberste Reihe schwarzer Felder zu kommen. Dabei verliert der Wolf, wenn er auf dem selben Feld wie ein Schaf ist. Die Spielfiguren können nur auf schwarzen Feldern und innerhalb des Spielfelds laufen. Wenn sie versuchen, dieses zu verlassen, sterben einzelne Schafe und der Wolf verliert.
 
 Aufbau
-Die Spielfigur, die der Spieler steuert, ist ein Ritter namens Sir Grünkohl. Dieser hat das Ziel, zum Kuchen zu gelangen und diesen zu verspeisen, um ein Level zu schaffen. Gesteuert wird er vom Spieler mit den Tasten "A" für links, "D" für rechts und die Leertaste zum Springen. Dabei darf der Ritter allerdings den Schlangen nicht zu nah kommen, denn sonst töten diese ihn. Der Ritter muss dabei, um sein Ziel zu erreichen, auch von Plattform zu Plattform springen. Auf dem Weg zum Kuchen kann er Grünkohl und Minze einsammeln und essen. Außerdem gibt es in jedem Level einen Frosch, der Fliegen isst, die in der Luft herumfliegen. Diese haben aber keinen Einfluss auf den Spieler. Am Ende ist auf der letzten Plattform jedes Levels ein Kuchen. Wenn der Ritter diesen isst, gewinnt er das Level und ein "win"-Screen erscheint. Sollte der Ritter aber davor sterben, erscheint ein "dead"-Screen.
+Es gibt einen Wolf, der von einer schwarzen Figur dargestellt wird und in der untersten schwarzen Reihe auf dem mittleren Feld beginnt. Seine Gegner sind die Schafe, die auf der....
 
 Regeln
 Es gibt einige festgeschriebene Regeln.
 Ziel des Wolfs ist es, die oberste Reihe schwarzer Felder zu erreichen, ohne auf dem selben Feld wie eines der Schafe zu stehen. Die einzige Ausnahme bildet die oberste Reihe schwarzer Felder. Wenn der Wolf diese betritt, gewinnt er, was am grünen Häkchen zu sehen ist.
 Ziel des Teams der Schafe ist es, den Wolf zu töten. Dafür müssen sie es schaffen, dass ein Schaf auf dem selben Feld wie der Wolf steht. Wenn sie dies schaffen, gewinnen die Schafe und ein rotes Kreuz erscheint.
+Für beide Teams ist es verboten, das Spielfeld zu verlassen. Wenn Schafe das versuchen, sterben sie und wenn der Wolf es versucht, verliert er direkt.
 
 
 Start und Ende
