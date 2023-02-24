@@ -1,4 +1,5 @@
 Projektseite "Schaf und Wolf"
+
 ##Konzept
 Wir haben uns am Anfang überlegt, ein Schaf und Wolf-Brettspiel mit Greenfoot für 2-5 Spieler zu erstellen. Dabei sollte es 4 Schafe und einen Wolf geben, welcher das Ziel hat, auf die oberste Reihe schwarzer Felder zu kommen. Dabei verliert der Wolf, wenn er auf dem selben Feld wie ein Schaf ist. Die Spielfiguren können nur auf schwarzen Feldern und innerhalb des Spielfelds laufen. Wenn sie versuchen, dieses zu verlassen, sterben einzelne Schafe und der Wolf verliert.
 
