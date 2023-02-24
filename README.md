@@ -15,12 +15,55 @@ Außerdem wäre es empfehlenswert, dass der Wolf beginnt und danach Schaf und Wo
 
 ## Die verschiedenen Klassen/Actors erklärt
 ### SchafUndWolf
-Diese Klasse
+Diese Klasse ist für die Welt...
 ![Screenshot (22)](https://user-images.githubusercontent.com/111414678/221164287-9a0e742c-46f3-454c-8eea-a69fc19b2c91.png)
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/111414678/221164237-0510d77c-617e-4af6-900f-bff9a9ed9048.png)
 
 ![image](https://user-images.githubusercontent.com/111414678/221164183-ca406f2b-6411-48df-b5cb-17b05a922721.png)
 
-### blablabliblubb
-...etc
+### GameOver
+![image](https://user-images.githubusercontent.com/111414678/221164569-0b41ad90-b7f8-4632-afee-d2a193a7a5f9.png)
+
+### Schaf
+![Screenshot (26)](https://user-images.githubusercontent.com/111414678/221164916-e1ace399-e97d-451b-bf1b-f2efed7e9108.png)
+
+
+![image](https://user-images.githubusercontent.com/111414678/221164876-e38a5b9b-d5df-4c3e-98c4-6c7733c9e45e.png)
+
+
+### SchwarzStrichWin
+![image](https://user-images.githubusercontent.com/111414678/221165461-4e0cb48d-6aad-4810-a535-698005361f8e.png)
+
+
+### SchwarzerKreis
+![image](https://user-images.githubusercontent.com/111414678/221165544-3f1364eb-bfb3-4412-b6a5-cca1b20f412b.png)
+
+
+### SchwarzerKreis2
+![image](https://user-images.githubusercontent.com/111414678/221165585-9984cf5a-902a-4bfb-a623-6179260cb97c.png)
+
+
+### Weißstrich
+![image](https://user-images.githubusercontent.com/111414678/221165623-752679c4-c8cf-40d8-b2df-bffc64adc6d6.png)
+
+![image](https://user-images.githubusercontent.com/111414678/221165657-8eb02741-61ea-4868-8113-4b86d71a95b5.png)
+
+
+### WeißerKreis
+![image](https://user-images.githubusercontent.com/111414678/221165696-59c887ca-2349-4745-b94b-13b04427bf86.png)
+
+
+### WeißerKreis2
+![image](https://user-images.githubusercontent.com/111414678/221165756-74176a88-da6e-4523-9b15-ccb19e4b46b7.png)
+
+
+### WinOver
+![image](https://user-images.githubusercontent.com/111414678/221165813-feb8c739-a295-411d-9c5b-2ceaaceac94a.png)
+
+
+### Wolf
+![image](https://user-images.githubusercontent.com/111414678/221165945-00af69eb-7916-49b0-ad6c-eb72a5ddc50d.png)
+![image](https://user-images.githubusercontent.com/111414678/221165976-4c529a7e-f65f-4c9b-b4b0-711c464412fc.png)
+![image](https://user-images.githubusercontent.com/111414678/221166009-7678b69e-ef02-4310-8c99-a69e3975c18d.png)
+
