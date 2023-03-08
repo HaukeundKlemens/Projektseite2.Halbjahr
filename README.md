@@ -23,6 +23,7 @@ Diese Klasse ist für die Welt...
 ![image](https://user-images.githubusercontent.com/111414678/221164183-ca406f2b-6411-48df-b5cb-17b05a922721.png)
 
 ### GameOver
+Die Klasse GameOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, dass den Bildschirm abdeckt und ein rotes X auf schwarzem Hintergrund zeigt, das signalisiert, dass der Wolf gestorben und deshalb das Team der Schafe gewonnen hat.
 ![image](https://user-images.githubusercontent.com/111414678/221164569-0b41ad90-b7f8-4632-afee-d2a193a7a5f9.png)
 
 ### Schaf
@@ -59,6 +60,7 @@ Diese Klasse ist für die Welt...
 
 
 ### WinOver
+Die Klasse WinOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, dass den Bildschirm abdeckt und ein grünes Häkchen auf schwarzem Hintergrund zeigt, das signalisiert, dass der Wolf auf die oberste Linie schwarzer Felder gekommen ist und deshalb gewonnen hat.
 ![image](https://user-images.githubusercontent.com/111414678/221165813-feb8c739-a295-411d-9c5b-2ceaaceac94a.png)
 
 
