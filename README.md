@@ -4,7 +4,7 @@
 Wir haben uns am Anfang überlegt, ein "Schaf und Wolf"-Brettspiel mit Greenfoot für 2-5 Spieler zu erstellen. Dabei sollte es 4 Schafe und einen Wolf geben, welcher das Ziel hat, auf die oberste Reihe schwarzer Felder zu kommen. Dabei verliert der Wolf, wenn er auf dem selben Feld wie ein Schaf ist. Die Spielfiguren können nur auf schwarzen Feldern und innerhalb des Spielfelds laufen. Wenn sie versuchen, diese zu verlassen, sterben einzelne Schafe und der Wolf verliert direkt. Die Schafe verlieren erst, wenn alle 4 tot sind oder der Wolf die oberste Reihe schwarzer Felder erreicht hat.
 
 ## Aufbau
-Die Figuren stehen auf einem schwarz-weißen Brett. Es gibt einen Wolf, der von einer schwarzen Figur dargestellt wird und in der untersten schwarzen Reihe auf dem mittleren Feld beginnt. Seine Gegner sind 4 Schafe, die auf der obersten Reihe schwarzer Felder beginnen. Auf den Figuren sind die Tasten zu sehen, mit denen man sie bewegen kann. Dabei können sich Schafe nur nach unten und der Wolf nach oben und unten bewegen.
+Die Figuren stehen auf einem schwarz-weißen Brett. Es gibt einen Wolf, der von einer schwarzen Figur dargestellt wird und in der untersten schwarzen Reihe auf dem mittleren Feld beginnt. Seine Gegner sind 4 Schafe, die auf der obersten Reihe schwarzer Felder beginnen. Auf den Figuren sind die Tasten zu sehen, mit denen man sie bewegen kann. Dabei können sich Schafe nur nach unten und der Wolf nach oben und unten bewegen. Das Brett können die Figuren nicht verlassen.
 
 ## Regeln
 Es gibt einige festgeschriebene Regeln.
@@ -12,6 +12,8 @@ Ziel des Wolfs ist es, die oberste Reihe schwarzer Felder zu erreichen, ohne auf
 Ziel des Teams der Schafe ist es, den Wolf zu töten. Dafür müssen sie es schaffen, dass ein Schaf auf dem selben Feld wie der Wolf steht. Wenn sie dies schaffen, gewinnen die Schafe und ein rotes Kreuz erscheint.
 Für beide Teams ist es verboten, das Spielfeld zu verlassen. Wenn Schafe das versuchen, sterben sie und wenn der Wolf es versucht, verliert er direkt.
 Außerdem wäre es empfehlenswert, dass der Wolf beginnt und danach Schaf und Wolf abwechselnd ziehen bis Schafe oder Wolf gewonnen haben. Wenn das grüne Häkchen erscheint, hat der Wolf gewonnen und bei dem roten Kreuz die Schafe.
+
+### SchafUndWolf2
 
 ## Die verschiedenen Klassen/Actors erklärt
 ### SchafUndWolf
@@ -21,6 +23,10 @@ Diese Klasse ist für die Welt...
 ![Screenshot (23)](https://user-images.githubusercontent.com/111414678/221164237-0510d77c-617e-4af6-900f-bff9a9ed9048.png)
 
 ![image](https://user-images.githubusercontent.com/111414678/221164183-ca406f2b-6411-48df-b5cb-17b05a922721.png)
+
+### SchafUndWolf2
+Diese Klasse ist für die zweite Welt. Diese unterscheidet sich von der ersten Welt darin, dass es einen zusätzlichen Actor, den "Gnark" gibt, welcher zufällig über das Spielfeld läuft und Wolf wie auch Schafe tötet, wenn diese ihm zunahe kommen. SchafUndWolf2 ist abgeleitet von SchafUndWolf.
+![image](https://user-images.githubusercontent.com/111414678/223656140-f4965825-bc02-48fd-81ed-266210b4c256.png)
 
 ### GameOver
 Die Klasse GameOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, dass den Bildschirm abdeckt und ein rotes X auf schwarzem Hintergrund zeigt, das signalisiert, dass der Wolf gestorben und deshalb das Team der Schafe gewonnen hat.
@@ -34,6 +40,7 @@ Die Klasse GameOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, da
 
 
 ### SchwarzStrichWin
+Dieser Actor ist einmal auf jedem schwarzen Feld auf der obersten Reihe schwarzer Felder und kann vom Wolf getötet werden, wenn dieser auf dem selben Feld. Wenn dies passiert, dann wird der "WinOver"-Actor ausgelöst und der Wolf hat gewonnen.
 ![image](https://user-images.githubusercontent.com/111414678/221165461-4e0cb48d-6aad-4810-a535-698005361f8e.png)
 
 
@@ -45,7 +52,8 @@ Die Klasse GameOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, da
 ![image](https://user-images.githubusercontent.com/111414678/221165585-9984cf5a-902a-4bfb-a623-6179260cb97c.png)
 
 
-### Weißstrich
+### WeißStrich
+Der Actor WeißStrich ist einmal auf jedem weißen Feld am Rand des Spielfelds, sodass Wolf und Schafe das Spiel nicht verlassen können, da der Weißstrich-Actor beide töten, sollten diese auf dem selben Feld stehen.
 ![image](https://user-images.githubusercontent.com/111414678/221165623-752679c4-c8cf-40d8-b2df-bffc64adc6d6.png)
 
 ![image](https://user-images.githubusercontent.com/111414678/221165657-8eb02741-61ea-4868-8113-4b86d71a95b5.png)
