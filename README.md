@@ -81,3 +81,5 @@ Die Klasse WinOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, das
 Der Gnark ist ein Actor, welcher zufällig über das Brett läuft und dabei Wolf und Schafe tötet, wenn er diesen zu nah kommt. Das sorgt dafür, dass Spieler zum Teil schneller ziehen müssen und allgemein kommt eine weitere Komponente zum Spiel dazu, welche dieses abwechslungsreicher macht.
 ![image](https://user-images.githubusercontent.com/111414678/223654327-623fab0e-876d-4751-8907-3ba17600e7ef.png)
 ![image](https://user-images.githubusercontent.com/111414678/223654387-498ed2aa-e155-4e45-8f60-08b344d8ce2e.png)
+![image](https://user-images.githubusercontent.com/111414678/223658438-c4cad2b4-7720-4087-884d-41326b699b5b.png)
+
