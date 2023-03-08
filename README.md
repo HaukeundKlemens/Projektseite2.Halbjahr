@@ -1,7 +1,7 @@
 # Projektseite "Schaf und Wolf"
 
 ## Konzept
-Wir haben uns am Anfang überlegt, ein Schaf und Wolf-Brettspiel mit Greenfoot für 2-5 Spieler zu erstellen. Dabei sollte es 4 Schafe und einen Wolf geben, welcher das Ziel hat, auf die oberste Reihe schwarzer Felder zu kommen. Dabei verliert der Wolf, wenn er auf dem selben Feld wie ein Schaf ist. Die Spielfiguren können nur auf schwarzen Feldern und innerhalb des Spielfelds laufen. Wenn sie versuchen, diese zu verlassen, sterben einzelne Schafe und der Wolf verliert direkt. Die Schafe verlieren erst, wenn alle 4 tot sind oder der Wolf die oberste Reihe schwarzer Felder erreicht hat.
+Wir haben uns am Anfang überlegt, ein "Schaf und Wolf"-Brettspiel mit Greenfoot für 2-5 Spieler zu erstellen. Dabei sollte es 4 Schafe und einen Wolf geben, welcher das Ziel hat, auf die oberste Reihe schwarzer Felder zu kommen. Dabei verliert der Wolf, wenn er auf dem selben Feld wie ein Schaf ist. Die Spielfiguren können nur auf schwarzen Feldern und innerhalb des Spielfelds laufen. Wenn sie versuchen, diese zu verlassen, sterben einzelne Schafe und der Wolf verliert direkt. Die Schafe verlieren erst, wenn alle 4 tot sind oder der Wolf die oberste Reihe schwarzer Felder erreicht hat.
 
 ## Aufbau
 Die Figuren stehen auf einem schwarz-weißen Brett. Es gibt einen Wolf, der von einer schwarzen Figur dargestellt wird und in der untersten schwarzen Reihe auf dem mittleren Feld beginnt. Seine Gegner sind 4 Schafe, die auf der obersten Reihe schwarzer Felder beginnen. Auf den Figuren sind die Tasten zu sehen, mit denen man sie bewegen kann. Dabei können sich Schafe nur nach unten und der Wolf nach oben und unten bewegen.
@@ -68,5 +68,7 @@ Diese Klasse ist für die Welt...
 ![image](https://user-images.githubusercontent.com/111414678/221166009-7678b69e-ef02-4310-8c99-a69e3975c18d.png)
 
 ### Gnark
-gnaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrk
+![image](https://user-images.githubusercontent.com/111414678/223654327-623fab0e-876d-4751-8907-3ba17600e7ef.png)
+![image](https://user-images.githubusercontent.com/111414678/223654387-498ed2aa-e155-4e45-8f60-08b344d8ce2e.png)
+Der Gnark ist ein Actor, welcher zufällig über das Brett läuft und dabei Wolf und Schafe tötet, wenn er diesen zu nah kommt. Das sorgt dafür, dass Spieler zum Teil schneller ziehen müssen und allgemein kommt eine weitere Komponente zum Spiel dazu, welche dieses abwechslungsreicher macht.
 
