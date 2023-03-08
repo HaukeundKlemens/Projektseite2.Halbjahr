@@ -68,7 +68,6 @@ Diese Klasse ist für die Welt...
 ![image](https://user-images.githubusercontent.com/111414678/221166009-7678b69e-ef02-4310-8c99-a69e3975c18d.png)
 
 ### Gnark
+Der Gnark ist ein Actor, welcher zufällig über das Brett läuft und dabei Wolf und Schafe tötet, wenn er diesen zu nah kommt. Das sorgt dafür, dass Spieler zum Teil schneller ziehen müssen und allgemein kommt eine weitere Komponente zum Spiel dazu, welche dieses abwechslungsreicher macht.
 ![image](https://user-images.githubusercontent.com/111414678/223654327-623fab0e-876d-4751-8907-3ba17600e7ef.png)
 ![image](https://user-images.githubusercontent.com/111414678/223654387-498ed2aa-e155-4e45-8f60-08b344d8ce2e.png)
-Der Gnark ist ein Actor, welcher zufällig über das Brett läuft und dabei Wolf und Schafe tötet, wenn er diesen zu nah kommt. Das sorgt dafür, dass Spieler zum Teil schneller ziehen müssen und allgemein kommt eine weitere Komponente zum Spiel dazu, welche dieses abwechslungsreicher macht.
-
