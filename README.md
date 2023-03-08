@@ -13,7 +13,8 @@ Ziel des Teams der Schafe ist es, den Wolf zu töten. Dafür müssen sie es scha
 Für beide Teams ist es verboten, das Spielfeld zu verlassen. Wenn Schafe das versuchen, sterben sie und wenn der Wolf es versucht, verliert er direkt.
 Außerdem wäre es empfehlenswert, dass der Wolf beginnt und danach Schaf und Wolf abwechselnd ziehen bis Schafe oder Wolf gewonnen haben. Wenn das grüne Häkchen erscheint, hat der Wolf gewonnen und bei dem roten Kreuz die Schafe.
 
-### SchafUndWolf2
+## Spieloptionen
+Es gibt zwei Welten, in denen man spielen kann. In der ersten Welt ist das "normale Spiel". In der zweiten Welt (SchafUndWolf2) gibt es mit dem Gnark eine weitere Spielkomponente. Dieser läuft zufällig über das Spielfeld und tötet alles, was ihm zu nahe kommt.
 
 ## Die verschiedenen Klassen/Actors erklärt
 ### SchafUndWolf
