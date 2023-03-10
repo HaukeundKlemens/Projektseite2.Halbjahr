@@ -17,6 +17,33 @@ Außerdem wäre es empfehlenswert, dass der Wolf beginnt und danach Schaf und Wo
 Es gibt zwei Welten, in denen man spielen kann. In der ersten Welt ist das "normale Spiel". In der zweiten Welt (SchafUndWolf2) gibt es mit dem Gnark eine weitere Spielkomponente. Dieser läuft zufällig über das Spielfeld und tötet alles, was ihm zu nahe kommt.
 
 ## Die verschiedenen Klassen/Actors erklärt
+
+[SchafUndWolf](#1)
+
+[SchafUndWolf2](#2)
+
+[GameOver](#3)
+
+[Schaf](#4)
+
+[SchwarzStrichWin](#5)
+
+[SchwarzerKreis](#6)
+
+[SchwarzerKreis2](#7)
+
+[WeißStrich](#8)
+
+[WeißerKreis](#9)
+
+[WeißerKreis2](#10)
+
+[WinOver](#11)
+
+[Wolf](#12)
+
+[Gnark](#13)
+
 ### SchafUndWolf
 Diese Klasse ist für die Welt...
 ![Screenshot (22)](https://user-images.githubusercontent.com/111414678/221164287-9a0e742c-46f3-454c-8eea-a69fc19b2c91.png)
