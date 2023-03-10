@@ -78,32 +78,32 @@ Dieser Actor ist einmal auf jedem schwarzen Feld auf der obersten Reihe schwarze
 ![image](https://user-images.githubusercontent.com/111414678/221165585-9984cf5a-902a-4bfb-a623-6179260cb97c.png)
 
 
-### WeißStrich
+### <a name="8"></a>WeißStrich 
 Der Actor WeißStrich ist einmal auf jedem weißen Feld am Rand des Spielfelds, sodass Wolf und Schafe das Spiel nicht verlassen können, da der Weißstrich-Actor beide töten, sollten diese auf dem selben Feld stehen.
 ![image](https://user-images.githubusercontent.com/111414678/221165623-752679c4-c8cf-40d8-b2df-bffc64adc6d6.png)
 
 ![image](https://user-images.githubusercontent.com/111414678/221165657-8eb02741-61ea-4868-8113-4b86d71a95b5.png)
 
 
-### WeißerKreis
+### <a name="9"></a>WeißerKreis 
 ![image](https://user-images.githubusercontent.com/111414678/221165696-59c887ca-2349-4745-b94b-13b04427bf86.png)
 
 
-### WeißerKreis2
+### <a name="10"></a>WeißerKreis2 
 ![image](https://user-images.githubusercontent.com/111414678/221165756-74176a88-da6e-4523-9b15-ccb19e4b46b7.png)
 
 
-### WinOver
+### <a name="11"></a>WinOver 
 Die Klasse WinOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, dass den Bildschirm abdeckt und ein grünes Häkchen auf schwarzem Hintergrund zeigt, das signalisiert, dass der Wolf auf die oberste Linie schwarzer Felder gekommen ist und deshalb gewonnen hat.
 ![image](https://user-images.githubusercontent.com/111414678/221165813-feb8c739-a295-411d-9c5b-2ceaaceac94a.png)
 
 
-### Wolf
+### <a name="12"></a>Wolf 
 ![image](https://user-images.githubusercontent.com/111414678/221165945-00af69eb-7916-49b0-ad6c-eb72a5ddc50d.png)
 ![image](https://user-images.githubusercontent.com/111414678/221165976-4c529a7e-f65f-4c9b-b4b0-711c464412fc.png)
 ![image](https://user-images.githubusercontent.com/111414678/221166009-7678b69e-ef02-4310-8c99-a69e3975c18d.png)
 
-### Gnark
+### <a name="13"></a>Gnark 
 Der Gnark ist ein Actor, welcher zufällig über das Brett läuft und dabei Wolf und Schafe tötet, wenn er diesen zu nah kommt. Das sorgt dafür, dass Spieler zum Teil schneller ziehen müssen und allgemein kommt eine weitere Komponente zum Spiel dazu, welche dieses abwechslungsreicher macht.
 ![image](https://user-images.githubusercontent.com/111414678/223654327-623fab0e-876d-4751-8907-3ba17600e7ef.png)
 ![image](https://user-images.githubusercontent.com/111414678/223654387-498ed2aa-e155-4e45-8f60-08b344d8ce2e.png)
