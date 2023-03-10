@@ -65,6 +65,7 @@ Die Klasse GameOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, da
 ![image](https://user-images.githubusercontent.com/111414678/221164569-0b41ad90-b7f8-4632-afee-d2a193a7a5f9.png)
 
 ### <a name="4"></a>Schaf 
+
 ![Screenshot (26)](https://user-images.githubusercontent.com/111414678/221164916-e1ace399-e97d-451b-bf1b-f2efed7e9108.png)
 
 
