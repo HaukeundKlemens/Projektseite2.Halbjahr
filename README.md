@@ -105,6 +105,8 @@ Die Klasse WinOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, das
 
 
 ### <a name="12"></a>Wolf 
+Die eatSchwarzStrichWin Methode legt fest, dass das Wolf den SchwarzStrich töten kann und dann der "WinOver" Bildschirm angezeigt wird. Die CheckKeys Methode sagt, wie weit sich der Actor bewegen darf (immer 52 zur Seite und 52 nach unten, oder oben).
+
 ![image](https://user-images.githubusercontent.com/111414678/221165945-00af69eb-7916-49b0-ad6c-eb72a5ddc50d.png)
 ![image](https://user-images.githubusercontent.com/111414678/221165976-4c529a7e-f65f-4c9b-b4b0-711c464412fc.png)
 ![image](https://user-images.githubusercontent.com/111414678/221166009-7678b69e-ef02-4310-8c99-a69e3975c18d.png)
