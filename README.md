@@ -44,7 +44,7 @@ Es gibt zwei Welten, in denen man spielen kann. In der ersten Welt ist das "norm
 
 [Gnark](#13)
 
-### SchafUndWolf
+### <a name="1"></a>SchafUndWolf
 Diese Klasse ist für die Welt...
 ![Screenshot (22)](https://user-images.githubusercontent.com/111414678/221164287-9a0e742c-46f3-454c-8eea-a69fc19b2c91.png)
 
@@ -52,31 +52,29 @@ Diese Klasse ist für die Welt...
 
 ![image](https://user-images.githubusercontent.com/111414678/221164183-ca406f2b-6411-48df-b5cb-17b05a922721.png)
 
-### SchafUndWolf2
+### <a name="2"></a>SchafUndWolf2
 Diese Klasse ist für die zweite Welt. Diese unterscheidet sich von der ersten Welt darin, dass es einen zusätzlichen Actor, den "Gnark" gibt, welcher zufällig über das Spielfeld läuft und Wolf wie auch Schafe tötet, wenn diese ihm zunahe kommen. SchafUndWolf2 ist abgeleitet von SchafUndWolf.
 ![image](https://user-images.githubusercontent.com/111414678/223656140-f4965825-bc02-48fd-81ed-266210b4c256.png)
 
-### GameOver
+### <a name="3"></a>GameOver 
 Die Klasse GameOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, dass den Bildschirm abdeckt und ein rotes X auf schwarzem Hintergrund zeigt, das signalisiert, dass der Wolf gestorben und deshalb das Team der Schafe gewonnen hat.
 ![image](https://user-images.githubusercontent.com/111414678/221164569-0b41ad90-b7f8-4632-afee-d2a193a7a5f9.png)
 
-### Schaf
+### <a name="4"></a>Schaf 
 ![Screenshot (26)](https://user-images.githubusercontent.com/111414678/221164916-e1ace399-e97d-451b-bf1b-f2efed7e9108.png)
 
 
 ![image](https://user-images.githubusercontent.com/111414678/221164876-e38a5b9b-d5df-4c3e-98c4-6c7733c9e45e.png)
 
-
-### SchwarzStrichWin
+### <a name="5"></a>SchwarzStrichWin 
 Dieser Actor ist einmal auf jedem schwarzen Feld auf der obersten Reihe schwarzer Felder und kann vom Wolf getötet werden, wenn dieser auf dem selben Feld. Wenn dies passiert, dann wird der "WinOver"-Actor ausgelöst und der Wolf hat gewonnen.
 ![image](https://user-images.githubusercontent.com/111414678/221165461-4e0cb48d-6aad-4810-a535-698005361f8e.png)
 
-
-### SchwarzerKreis
+### <a name="6"></a>SchwarzerKreis 
 ![image](https://user-images.githubusercontent.com/111414678/221165544-3f1364eb-bfb3-4412-b6a5-cca1b20f412b.png)
 
 
-### SchwarzerKreis2
+### <a name="7"></a>SchwarzerKreis2 
 ![image](https://user-images.githubusercontent.com/111414678/221165585-9984cf5a-902a-4bfb-a623-6179260cb97c.png)
 
 
