@@ -65,9 +65,10 @@ Die Klasse GameOver sorgt dafür, dass bei Aktivierung ein Bild gezeigt wird, da
 ![image](https://user-images.githubusercontent.com/111414678/221164569-0b41ad90-b7f8-4632-afee-d2a193a7a5f9.png)
 
 ### <a name="4"></a>Schaf 
+Die Strings für die rechte und die linke Steuerungstaste werden ganz oben festgelegt, darunter findet man die Reihenfolge, in der die Strings in der Prepare Methode angezeigt werden.
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/111414678/221164916-e1ace399-e97d-451b-bf1b-f2efed7e9108.png)
-
+Die eat Methode legt fest, dass das Schaf den Wolf töten kann und dann der "GameOver" Bildschirm angezeigt wird. Die CheckKeys Methode sagt, wie weit sich der Actor bewegen darf (immer 52 zur Seite und 52 nach unten).
 
 ![image](https://user-images.githubusercontent.com/111414678/221164876-e38a5b9b-d5df-4c3e-98c4-6c7733c9e45e.png)
 
