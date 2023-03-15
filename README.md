@@ -49,6 +49,10 @@ Diese Klasse ist für die Welt...
 Super ist die Weltgröße, die bei 416 mal 416 liegt. 
 Der Befehl Prepare legt fest, wo die verschiedenen Aktoren erschaffen werden.
 Für die Schafe wird zudem die individuelle Steuerung und das zugehörige Bild geladen.
+
+![image](https://user-images.githubusercontent.com/111414678/225242748-ae7a3d58-8846-48d5-8f6f-412d10659b15.png)
+
+
 ![Screenshot (22)](https://user-images.githubusercontent.com/111414678/221164287-9a0e742c-46f3-454c-8eea-a69fc19b2c91.png)
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/111414678/221164237-0510d77c-617e-4af6-900f-bff9a9ed9048.png)
@@ -58,6 +62,8 @@ Für die Schafe wird zudem die individuelle Steuerung und das zugehörige Bild g
 
 ### <a name="2"></a>SchafUndWolf2
 Diese Klasse ist für die zweite Welt. Diese unterscheidet sich von der ersten Welt darin, dass es einen zusätzlichen Actor, den "Gnark" gibt, welcher zufällig über das Spielfeld läuft und Wolf wie auch Schafe tötet, wenn diese ihm zunahe kommen. SchafUndWolf2 ist abgeleitet von SchafUndWolf.
+![image](https://user-images.githubusercontent.com/111414678/225242671-9f293c4c-3506-49a3-87d6-e6e8caf31255.png)
+
 ![image](https://user-images.githubusercontent.com/111414678/223656140-f4965825-bc02-48fd-81ed-266210b4c256.png)
 
 ### <a name="3"></a>GameOver 
