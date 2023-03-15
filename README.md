@@ -83,10 +83,14 @@ Dieser Actor ist einmal auf jedem schwarzen Feld auf der obersten Reihe schwarze
 ![image](https://user-images.githubusercontent.com/111414678/221165461-4e0cb48d-6aad-4810-a535-698005361f8e.png)
 
 ### <a name="6"></a>SchwarzerKreis 
+Dieser Actor ist die erste Vorstufe vom Wolf und wurde von uns später noch bearbeitet.
+
 ![image](https://user-images.githubusercontent.com/111414678/221165544-3f1364eb-bfb3-4412-b6a5-cca1b20f412b.png)
 
 
 ### <a name="7"></a>SchwarzerKreis2 
+Dieser Actor ist die Zwischenstufe zwischen SchwarzerKreis und dem Wolf, wie er am Ende aussehen.
+
 ![image](https://user-images.githubusercontent.com/111414678/221165585-9984cf5a-902a-4bfb-a623-6179260cb97c.png)
 
 
@@ -98,10 +102,12 @@ Der Actor WeißStrich ist einmal auf jedem weißen Feld am Rand des Spielfelds, 
 
 
 ### <a name="9"></a>WeißerKreis 
+Dieser Actor ist die erste Vorstufe von den Schafen und wurde von uns später noch bearbeitet.
 ![image](https://user-images.githubusercontent.com/111414678/221165696-59c887ca-2349-4745-b94b-13b04427bf86.png)
 
 
 ### <a name="10"></a>WeißerKreis2 
+Dieser Actor ist die Zwischenstufe zwischen WeißerKreis und den Schafen, wie sie am Ende aussehen.
 ![image](https://user-images.githubusercontent.com/111414678/221165756-74176a88-da6e-4523-9b15-ccb19e4b46b7.png)
 
 
