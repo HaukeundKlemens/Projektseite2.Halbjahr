@@ -45,7 +45,7 @@ Es gibt zwei Welten, in denen man spielen kann. In der ersten Welt ist das "norm
 [Gnark](#13)
 
 ### <a name="1"></a>SchafUndWolf
-Diese Klasse ist für die Welt...
+Diese Klasse ist für die Welt.
 Super ist die Weltgröße, die bei 416 mal 416 liegt. 
 Der Befehl Prepare legt fest, wo die verschiedenen Aktoren erschaffen werden.
 Für die Schafe wird zudem die individuelle Steuerung und das zugehörige Bild geladen.
