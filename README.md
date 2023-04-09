@@ -130,4 +130,4 @@ Der Gnark ist ein Actor, welcher zufällig über das Brett läuft und dabei Wolf
 ![image](https://user-images.githubusercontent.com/111414678/223658438-c4cad2b4-7720-4087-884d-41326b699b5b.png)
 
 ### Fazit
-Auch in diesem Halbjahr haben wir viel gelernt, das wichtigste dabei war wahrscheinlich, dass es oft viele verschiedene Wege gibt ein bestimmtes Ziel zu erreichen.
+Auch in diesem Halbjahr haben wir viel gelernt. Das wichtigste dabei war wahrscheinlich, dass es oft viele verschiedene Wege gibt ein bestimmtes Ziel zu erreichen.
